@@ -1,0 +1,2 @@
+# bdb
+this is repository for telegram bot that used like data base
